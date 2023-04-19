@@ -52,5 +52,16 @@ begin_fill()
 circle(40)
 end_fill()
 
+penup()
+forward(200)
+pendown()
+
+#Jupiter
+
+color("orange")
+begin_fill()
+circle(80)
+end_fill()
+
 done()
 
